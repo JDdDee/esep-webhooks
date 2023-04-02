@@ -1,0 +1,7 @@
+D:\Users\JD\Documents\uf school\--- spring 2023\cis 4930 enterprise software\new attempt\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\EsepWebhook.deps.json
+D:\Users\JD\Documents\uf school\--- spring 2023\cis 4930 enterprise software\new attempt\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\EsepWebhook.runtimeconfig.json
+D:\Users\JD\Documents\uf school\--- spring 2023\cis 4930 enterprise software\new attempt\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\EsepWebhook.pdb
+D:\Users\JD\Documents\uf school\--- spring 2023\cis 4930 enterprise software\new attempt\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+D:\Users\JD\Documents\uf school\--- spring 2023\cis 4930 enterprise software\new attempt\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\Users\JD\Documents\uf school\--- spring 2023\cis 4930 enterprise software\new attempt\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\Newtonsoft.Json.dll
+D:\Users\JD\Documents\uf school\--- spring 2023\cis 4930 enterprise software\new attempt\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\EsepWebhook.dll
